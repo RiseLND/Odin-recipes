@@ -1,0 +1,113 @@
+img.moha {
+    border: 2px solid rgb(245, 155, 110);
+    position: relative;
+    left: 650px;
+    bottom:30px;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+strong {
+    font-size: 30px;
+}
+
+a.index{
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+}
+
+body.index{
+    background-color: crimson;
+}
+
+img.meats {
+    border:  2px solid rgb(0, 0, 0);
+
+}
+
+.coockies{
+    background: rgb(245, 155, 110);
+
+}
+
+#coockies{
+    border: 2px solid rgb(0, 0, 0);
+
+}
+
+.coockisa{
+    font-size: 30px;
+    color: aliceblue;
+
+}
+
+.frensh{
+ 
+    max-width: 40%;
+    height: auto;
+    border: 2px solid rgb(0, 0, 0);
+    
+
+}
+
+.igredients{
+    color: rgb(109, 0, 0);
+
+}
+
+.topc{
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+
+}
+
+.bmeat{
+    background-color: rgb(112, 106, 69);
+
+
+}
+
+.imeat{
+    max-width: 40%;
+    height: auto;
+    border: 2px solid rgb(0, 0, 0);
+
+
+}
+
+.ameat{
+    font-size: 20px;
+    color: aliceblue;
+
+}
+
+.tmeat{
+
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+
+}
+
+.bsalad{
+        background-color: rgb(63, 37, 37);
+
+
+}
+
+.asalad{
+        font-size: 20px;
+        color: aliceblue;
+
+
+}
+
+.isalads{
+
+    max-width: 30%;
+    height: auto;
+    border: 2px solid rgb(0, 0, 0);
+
+
+}
